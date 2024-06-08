@@ -1,2 +1,1 @@
 pretrained filter=lfs diff=lfs merge=lfs -text
-pretrained/resnet101-imagenet.pth filter=lfs diff=lfs merge=lfs -text
